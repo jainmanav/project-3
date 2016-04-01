@@ -1,6 +1,18 @@
-frontend-nanodegree-arcade-game
-===============================
+# Classic-Arcade-Game-Clone
+Third project completed as a requirement for the Front end Developer program at Udacity
 
-Students should use this [rubric](https://www.udacity.com/course/viewer/#!/c-nd001/l-2696458597/m-2687128535) for self-checking their submission.
+#Project Description
+An HTML5 Canvas powered video game, developed using the best practices in Object Oriented JavaScript.
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+#How to Use
+Open the index.html file with your favorite browser.
+Use the arrow keys on the keyboard to move the character on any direction.
+Try to avoid gettting hit by the bugs.
+Your goal is to cross to the other side.
+
+#Skills Implemented
+
+HTML
+JAVASCRIPT
+OBJECT ORIENTED JAVASCRIPT
+HTML 5 CANVAS

@@ -1,3 +1,55 @@
 body {
-    text-align: center;
+	text-align: center;
+	background: #555;
+	font-family: cursive;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+h1 {
+	font-weight: 800;
+	color: darkblue;
+}
+
+p {
+	font-weight: normal;
+	width: 700px;
+	color: skyblue;
+	overflow: auto;
+}
+
+footer {
+	text-align: right;
+	margin-right: 100px;
+	margin-bottom: 20px;
+	font-size: 18px;
+	color: darkred;
+	font-weight: bold;
+	max-width: 1300px;
+}
+
+.game-title {
+	width: 50%;
+	order: 2;
+	margin-left: 15px;
+}
+
+@media screen and (max-width: 900px) {
+	body {
+		min-width: 820px;
+		background-color: darkred;
+	}
+
+	h1 {
+		color: navy;
+		font-weight: 700;
+	}
+
+	p {
+		color: skyblue;
+	}
+
+	footer {
+		color: navy;
+	}
 }
